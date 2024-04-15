@@ -13,11 +13,11 @@
 
 - 🔭 I’m currently working on [lets upgrade](https://github.com/harsh0kadam/Harsh-s--E-commerce.git)
 
-- 🌱 I’m currently learning **Next.js,Nest.js,python**
+- 🌱 I’m currently learning **Next.js,Nest.js,python ,Java**
 
-- 👯 I’m looking to collaborate on [E-commerce](https://github.com/harshkadam3)
+- 👯 I’m looking to collaborate on [E-commerce](https://github.com/harsh03kadam)
 
-- 👨‍💻 All of my projects are available at [https://github.com/harsh0kadam/MyPortfolio](https://github.com/harsh0kadam/MyPortfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/harsh03kadam/MyPortfolio](https://harsh-portfolio-io.netlify.app/)
 
 - 📫 How to reach me **harsh0kadam5@gmail.com**
 
