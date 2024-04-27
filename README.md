@@ -2,8 +2,7 @@
 <img src="https://media3.giphy.com/media/SH3ubtnact2N4CzbNu/giphy.gif?cid=ecf05e47aigqdbci58y29hrmjt07npq7d7j6w14r9k47ja6q&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="900" alt="">
 <h1 align="center">Hi 👋, I'm Harsh Kadam</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-
-https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZncjUwZGhsYnY0MXVjajdpZnR0YmZ1ejlraWgwMjkyNTN3OWU2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif
+<img src="https://www.icegif.com/wp-content/uploads/2023/10/icegif-515.gif" width="300" height="300" align="right" alt="">
 
 
 
