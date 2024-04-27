@@ -19,9 +19,9 @@
 
 - 🤝 I’m looking for help with [Zoom To Doom](https://zoom-clone-seven-rho.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/harsh03kadam/MyPortfolio](https://github.com/harsh03kadam/MyPortfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/harsh03kadam](https://github.com/harsh03kadam)
 
-- 📫 How to reach me **harsh0kadam5@gmail.com**
+- 📫 How to reach me **harsh0kadam@gmail.com**
 
 - 📄 Know about my experiences [https://app.luminpdf.com/viewer/661cfed50f77932671650ac4](https://app.luminpdf.com/viewer/661cfed50f77932671650ac4)
 
