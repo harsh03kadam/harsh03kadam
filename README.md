@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Harsh Kadam</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
+<img src="https://www.icegif.com/wp-content/uploads/2023/10/icegif-515.gif" width="300"  height="300"  align="right" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh03kadam&label=Profile%20views&color=0e75b6&style=flat" alt="harsh03kadam" /> </p>
 
