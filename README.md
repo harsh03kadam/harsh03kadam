@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:89%;position:relative;"><iframe src="https://giphy.com/embed/xT9IgzoKnwFNmISR8I" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I">via GIPHY</a></p>
+<img src="https://media3.giphy.com/media/SH3ubtnact2N4CzbNu/giphy.gif?cid=ecf05e47aigqdbci58y29hrmjt07npq7d7j6w14r9k47ja6q&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="900" alt="">
 
 <h1 align="center">Hi 👋, I'm Harsh Kadam</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
