@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Kadam</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img src="https://www.icegif.com/wp-content/uploads/2023/10/icegif-515.gif" width="300" height="300" align="right" alt="">
-<img src="https://giphy.com/embed/ko7twHhomhk8E" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/code-ko7twHhomhk8E"></a></p>
+
 
 
 
