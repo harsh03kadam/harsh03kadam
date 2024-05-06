@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/_harshit_333" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/_harshit_333?logo=twitter&style=for-the-badge" alt="https://twitter.com/_harshit_333" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://harshkadam-protfolio.netlify.app/)
+- 🔭 I’m currently working on [Portfolio](https://harsh-portfolio-ruddy.vercel.app/)
 
 - 🌱 I’m currently learning **Python & Java**
 
